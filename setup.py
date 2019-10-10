@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='mish-activation',
+    name='Mish',
     version='1.0.0',
     url='https://github.com/digantamisra98/Mish',
     packages=find_packages(),
